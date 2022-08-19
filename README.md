@@ -9,3 +9,10 @@ Here is an example of the application live:
 
 
 <img width="717" alt="Screen Shot 2022-08-18 at 9 53 38 PM" src="https://user-images.githubusercontent.com/110851085/185568640-1531f09e-a42a-4e39-85bd-48ad2b6a78e8.png">
+
+
+# Tools
+- TensorFlow
+- openCV
+- Transfer Learning
+- Google Collab

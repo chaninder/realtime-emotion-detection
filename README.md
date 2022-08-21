@@ -15,4 +15,4 @@ Here is an example of the application live:
 - TensorFlow
 - openCV
 - Transfer Learning
-- Google Collab
+- Google Colab
